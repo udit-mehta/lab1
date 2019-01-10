@@ -48,3 +48,13 @@ img .thumbnail {
      color: #cccccc;
 }
 
+.webframe
+{
+     height:500px;
+     width:100%;
+}
+
+body
+{
+     background-color: lightsteelblue;
+}
